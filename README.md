@@ -13,4 +13,4 @@ Mockup screenshots
 
 ![Alt text](/assets/images/Scheduler.png?raw=true "scheduler")
 
-![Alt text](/assets/images/Scheduler-data.pngraw=true "scheduler-data")
+![Alt text](/assets/images/Scheduler-data.png?raw=true "scheduler-data")
